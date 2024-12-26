@@ -14,19 +14,19 @@ Welcome to **TaskNova**, a simple and effective to-do app designed to improve yo
 3. **Real-Time Updates**: Add, view, and manage your tasks instantly without refreshing the page.
 
 ## Screenshot
-![TaskNova Screenshot](path-to-your-screenshot.png)
+![TaskNova Screenshot](tasknova.png)
 
 ## Try It Out
 You can check out TaskNova live by visiting this link:
-[TaskNova App](your-app-link-here)
+[TaskNova App](https://tasknova.streamlit.app/)
 
 ## Installation and Usage (Local Deployment)
 To run TaskNova on your local machine, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/tasknova.git
-   cd tasknova
+   git clone https://github.com/salikhassan/task-nova.git
+   cd task-nova
    ```
 
 2. **Install Dependencies**
@@ -38,7 +38,7 @@ To run TaskNova on your local machine, follow these steps:
 3. **Run the App**
    Start the Streamlit server:
    ```bash
-   streamlit run app.py
+   streamlit run web.py
    ```
 
 4. **Access the App**
@@ -48,12 +48,6 @@ To run TaskNova on your local machine, follow these steps:
 - **Programming Language**: Python
 - **Framework**: Streamlit
 - **Data Storage**: Text file
-
-## Contributing
-Contributions are welcome! If you'd like to improve TaskNova or report any issues, feel free to fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
 
 ---
 
